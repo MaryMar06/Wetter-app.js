@@ -16,11 +16,8 @@ ein passendes Icon
 - Daten bleiben gespeichert (LocalStorage)
 ## Beispiel
 
-Konsole:
-![Konsole](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenKonsol.png)
-
 Browser
-![Browser](https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenBrowser.png)
+![Browser]([https://raw.githubusercontent.com/MaryMar06/Wettervorhersage.py/main/icons/ScreenBrowser.png](https://github.com/MaryMar06/Wetter-app.js/blob/main/icons/Screen.png))
 
 ## Dateien
 index.html – Aufbau der Seite
