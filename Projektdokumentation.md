@@ -19,20 +19,21 @@ Browser
 ![Screenshot](icons/Screen.png)
 
 ## Dateien
-index.html – Aufbau der Seite
-style.css – Design
-app.js – Funktion 
+- index.html – Aufbau der Seite
+- style.css – Design
+- app.js – Funktion 
 
 ## Wie funktioniert das?
 Der Benutzer gibt eine Stadt ein. Die App ruft Daten über die OpenWeatherMap API ab. Die Daten werden in einer Tabelle angezeigt. Für jede Stadt wird eine neue Zeile erstellt. Die Städte werden gespeichert.
 ## Benutzeranleitung
+
 Öffne index.html im Browser
-Gib eine Stadt ein
-Drücke „Hinzufügen“ oder Enter
-Das Wetter wird angezeigt
+- Gib eine Stadt ein
+- Drücke „Hinzufügen“ oder Enter
+- Das Wetter wird angezeigt
 
 ## Technik
-HTML
-CSS
-JavaScript
-OpenWeatherMap API
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
