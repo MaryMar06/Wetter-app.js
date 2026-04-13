@@ -5,10 +5,9 @@ Dieses Projekt zeigt das aktuelle Wetter für eine Stadt an.
 
 Der Benutzer gibt eine Stadt ein und bekommt:
 
-Temperatur
-gefühlte Temperatur
-Beschreibung des Wetters
-ein passendes Icon
+- gefühlte Temperatur
+- Beschreibung des Wetters
+- ein passendes Icon
 ## Funktionen
 - Städte eingeben
 - Wetter anzeigen
@@ -22,15 +21,10 @@ Browser
 ## Dateien
 index.html – Aufbau der Seite
 style.css – Design
-app.js – Funktion (Logik)
+app.js – Funktion 
 
 ## Wie funktioniert das?
-Benutzer gibt eine Stadt ein
-Die App fragt Daten von der OpenWeatherMap API ab
-Die Daten werden in einer Tabelle angezeigt
-Für jede Stadt wird eine neue Zeile erstellt
-Die Städte werden gespeichert
-
+Der Benutzer gibt eine Stadt ein. Die App ruft Daten über die OpenWeatherMap API ab. Die Daten werden in einer Tabelle angezeigt. Für jede Stadt wird eine neue Zeile erstellt. Die Städte werden gespeichert.
 ## Benutzeranleitung
 Öffne index.html im Browser
 Gib eine Stadt ein
