@@ -17,3 +17,8 @@ Die App zeigt das Wetter für Städte an. Man kann eine Stadt eingeben und bekom
 - CSS
 - JavaScript
 - OpenWeatherMap API
+
+  ## Beispiel
+
+Browser
+![Screenshot](icons/Screen.png)
