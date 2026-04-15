@@ -1,4 +1,4 @@
-// HTML-Elemente abrufen
+
 const input = document.getElementById("StadtInput");
 const button = document.getElementById("addierenButton");
 const table = document.getElementById("WetterTable");
@@ -23,7 +23,6 @@ button.onclick = () => {
     error.textContent = "";
 };
 
-// Wetterdaten von OpenWeatherMap abrufen
 async function getWeather(stadt) {
     try {
         const res = await fetch(
